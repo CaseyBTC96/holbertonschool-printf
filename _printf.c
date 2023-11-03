@@ -7,7 +7,7 @@ void print_buffer(char buffer[], int *buff_ind);
  * @fromat: format.
  * Return: Printed char.
  */
-int _printf(const char *fromat, ...)
+int _printf(const char *format, ...)
 {
 	int i, printed = 0, printed_char = 0;
 	int flags, width, precision, size, buff_ind = 0;
