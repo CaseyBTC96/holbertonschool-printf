@@ -9,6 +9,7 @@ int set_decimal(va_list valist)
 {
 	int i, div, len;
 	unsigned int num;
+
 	i = va_arg(valist, int);
 	div = 1;
 	len = 0;
