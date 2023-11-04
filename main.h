@@ -21,7 +21,7 @@ typedef struct format
 int _printf(const char *format, ...);
 int set_string(va_list valist);
 int _putchar(char c);
-int print_percent(__attribute__((unused)), va_list valist);
+int print_percent(__attribute__((unused))va_list valist);
 int parse_format(const char *format, format_t get_opt[], va_list valist);
 int set_char(va_list valist);
 int set_decimal(va_list valist);
