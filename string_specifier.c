@@ -25,3 +25,14 @@ int set_string(va_list valist)
 
 	return (i);
 }
+
+/**
+ * set_char - specifier c
+ * @valist: valist
+ * Return: void
+ */
+int set_char(va_list valist)
+{
+	_putchar(va_arg(valist, int));
+	return (1);
+}
