@@ -4,13 +4,13 @@
 
 This repository is a project during the first year of Holberton School.
 
-It has been in done in a trio and consits of coding the printf function.
+It has been in done in a trio and consists of coding the printf function.
 
 # _printf
 
 ## Description
 
-The function _printf is a variadic function that takes a format string as input among a varriable sized list of other values and produce as output a string thatcorresponds to the format specifier and given input values.
+The function _printf is a variadic function that takes a format string as input among a variable sized list of other values and produce as output a string that corresponds to the format specifier and given input values.
 
 ## Prototype
 
