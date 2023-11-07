@@ -41,7 +41,7 @@ The command to compile your files is :
 
 ## Flowchart
 
-![enter image description  here](https://imgur.com/a/OkfMNOy)
+![enter image description  here](https://i.imgur.com/7BuqpWs.jpg)
 ## Credits
 
 This project was created by Casey Paul, Adrian Taylor, and Crystal Muyunga
