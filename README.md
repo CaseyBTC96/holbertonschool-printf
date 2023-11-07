@@ -41,8 +41,7 @@ The command to compile your files is :
 
 ## Flowchart
 
-![enter image descriptiion here](https://slack-files.com/files-pri-safe/T0423U1MW21-F064ECGS6KX/printf.drawio.pdf?c=1699372169-79d4cc6f349a6952)
-
+![enter image description  here](https://imgur.com/a/OkfMNOy)
 ## Credits
 
 This project was created by Casey Paul, Adrian Taylor, and Crystal Muyunga
