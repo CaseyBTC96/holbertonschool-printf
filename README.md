@@ -39,6 +39,9 @@ The command to compile your files is :
 
 - '_printf(“%d”, -15627382);' => prints the decimal number “-15627382”
 
+## Flowchart
+
+![enter image descriptiion here](https://slack-files.com/files-pri-safe/T0423U1MW21-F064ECGS6KX/printf.drawio.pdf?c=1699372169-79d4cc6f349a6952)
 
 ## Credits
 
